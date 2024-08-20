@@ -1,0 +1,36 @@
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\CapaConexion\CapaConexion\bin\Debug\CapaConexion.exe.config
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\CapaConexion\CapaConexion\bin\Debug\CapaConexion.exe
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\CapaConexion\CapaConexion\bin\Debug\CapaConexion.pdb
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\CapaConexion\CapaConexion\obj\Debug\CapaConexion.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\CapaConexion\CapaConexion\obj\Debug\CapaConexion.Form1.resources
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\CapaConexion\CapaConexion\obj\Debug\CapaConexion.Properties.Resources.resources
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\CapaConexion\CapaConexion\obj\Debug\CapaConexion.csproj.GenerateResource.cache
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\CapaConexion\CapaConexion\obj\Debug\CapaConexion.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\CapaConexion\CapaConexion\obj\Debug\CapaConexion.exe
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\CapaConexion\CapaConexion\obj\Debug\CapaConexion.pdb
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\Proyecto_en_capas\CapaConexion\bin\Debug\CapaConexion.exe.config
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\Proyecto_en_capas\CapaConexion\bin\Debug\CapaConexion.exe
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\Proyecto_en_capas\CapaConexion\bin\Debug\CapaConexion.pdb
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\Proyecto_en_capas\CapaConexion\obj\Debug\CapaConexion.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\Proyecto_en_capas\CapaConexion\obj\Debug\CapaConexion.Form1.resources
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\Proyecto_en_capas\CapaConexion\obj\Debug\CapaConexion.Properties.Resources.resources
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\Proyecto_en_capas\CapaConexion\obj\Debug\CapaConexion.csproj.GenerateResource.cache
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\Proyecto_en_capas\CapaConexion\obj\Debug\CapaConexion.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\Proyecto_en_capas\CapaConexion\obj\Debug\CapaConexion.exe
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\Proyecto_en_capas\CapaConexion\obj\Debug\CapaConexion.pdb
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\Proyecto_en_capas\CapaConexion\bin\Debug\DatosLayer.dll
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\Proyecto_en_capas\CapaConexion\bin\Debug\DatosLayer.pdb
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\Proyecto_en_capas\CapaConexion\obj\Debug\CapaCone.C1BD2A79.Up2Date
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\Nueva carpeta\Proyecto_en_capas\CapaConexion\bin\Debug\CapaConexion.exe.config
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\Nueva carpeta\Proyecto_en_capas\CapaConexion\bin\Debug\CapaConexion.exe
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\Nueva carpeta\Proyecto_en_capas\CapaConexion\bin\Debug\CapaConexion.pdb
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\Nueva carpeta\Proyecto_en_capas\CapaConexion\bin\Debug\DatosLayer.dll
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\Nueva carpeta\Proyecto_en_capas\CapaConexion\bin\Debug\DatosLayer.pdb
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\Nueva carpeta\Proyecto_en_capas\CapaConexion\obj\Debug\CapaConexion.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\Nueva carpeta\Proyecto_en_capas\CapaConexion\obj\Debug\CapaConexion.Form1.resources
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\Nueva carpeta\Proyecto_en_capas\CapaConexion\obj\Debug\CapaConexion.Properties.Resources.resources
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\Nueva carpeta\Proyecto_en_capas\CapaConexion\obj\Debug\CapaConexion.csproj.GenerateResource.cache
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\Nueva carpeta\Proyecto_en_capas\CapaConexion\obj\Debug\CapaConexion.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\Nueva carpeta\Proyecto_en_capas\CapaConexion\obj\Debug\CapaCone.C1BD2A79.Up2Date
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\Nueva carpeta\Proyecto_en_capas\CapaConexion\obj\Debug\CapaConexion.exe
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\Nueva carpeta\Proyecto_en_capas\CapaConexion\obj\Debug\CapaConexion.pdb
